@@ -1,0 +1,3 @@
+[submodule "submoduly"]
+	path = submoduly
+	url = https://github.com/rcmrak/submoduly.git
